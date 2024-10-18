@@ -1,4 +1,4 @@
-Instruções para entrega
+Instruções para entrega concluídas
 # 1️⃣ Desafio Classificador de nível de Herói
 
 **O Que deve foi utilizado**
