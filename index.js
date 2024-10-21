@@ -4,7 +4,7 @@ let prompt = require('prompt-sync')()
 nomeDoHeroi = prompt("Digite o nome do seu herói: ")
 qtdExperiencia = parseInt(prompt("Digite a quantidade de experiência do seu herói: "))
 
-if (qtdExperiencia <= 1000){     []
+if (qtdExperiencia <= 1000){ 
     console.log("O herói de nome " + nomeDoHeroi + " está no nível de Ferro")
 }else if ((qtdExperiencia > 1000) && (qtdExperiencia <= 2000)){
     console.log("O herói de nome " + nomeDoHeroi + " está no nível de Bronze")
